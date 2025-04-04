@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_nav_bar">Inicio</string>
+    <string name="search_nav_bar">Buscar</string>
+    <string name="profile_nav_bar">Perfil</string>
+</resources>
